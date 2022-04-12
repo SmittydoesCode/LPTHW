@@ -20,7 +20,7 @@ print(f"I also said: '{y}'")
 #line 21 sets a variable of hilarious to equal False, false has to be capitalized
 hilarious = False
 
-#line 24 sets a variable of the joke evaluation, the brackets represnt a variable that needs to be added and formatted.
+#line 24 sets a variable of the joke evaluation, the brackets represent a variable that needs to be added and formatted.
 joke_evaluation = "Isn't that joke so funny?! {}"
 #.format() formats an already created string.
 print(joke_evaluation.format(hilarious))
